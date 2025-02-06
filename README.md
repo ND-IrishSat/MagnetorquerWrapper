@@ -10,3 +10,5 @@ Enter 's' to stop motors (will not reset count so you can continue your layer)
 
 Commands: 
 ' ','c','r','s'
+
+Power supply is set to: 12V and 1 Amp
