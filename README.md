@@ -12,3 +12,5 @@ Commands:
 ' ','c','r','s'
 
 Power supply is set to: 12V and 1 Amp
+
+Demo: https://youtu.be/l4Wngb5zKtM
